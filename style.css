@@ -64,8 +64,7 @@ ul li {
 
 .link-card {
     display: flex;
-    background-color: #e1e1f1;
-    /* background-color: #2d2d56; */
+    background-color: #2d2d56;
     padding: 1rem;
     border-radius: 20px;
     justify-content: space-between;
